@@ -1,0 +1,49 @@
+.container {
+    padding-top: 20px;
+}
+
+.card-body {
+    border: solid #0d6efd 1px;
+    margin-top: 10px;
+    word-wrap: break-word;
+}
+
+.btn-secondary {
+    border-radius: 0;
+}
+
+.form-control {
+    border: #0d6efd solid 2px;
+}
+
+.btn-group-sm>.btn, .btn-sm {
+    margin-top: 5px;
+    border-radius: 0;
+}
+
+.error-input {
+    color: #FF3B25;
+    font-size: 5px;
+    text-align: center;
+}
+
+#button-add {
+    display: none;
+}
+
+.total-notes {
+    color: #0d6efd;
+    font-weight: 700;
+}
+
+.card-date {
+    position: relative;
+    float: right;
+    color: #0d6efd;
+    font-weight: 500;
+}
+
+.page-link-active {
+    color: #0a1298;
+    font-weight: 600;
+}
