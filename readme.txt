@@ -8,7 +8,7 @@ CREATE TABLE `notes` (
   `text` text NOT NULL,
   `date` varchar(15) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
 ------------------------------------------------------------------------------------------------------------------------
 
