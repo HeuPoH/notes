@@ -6,7 +6,7 @@ CREATE TABLE `notes` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `title` varchar(255) NOT NULL,
   `text` text NOT NULL,
-  `date` varchar(15) NOT NULL,
+  `date` varchar(20) NOT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
